@@ -5,7 +5,7 @@ mandelbrot-2013
 
 homework to draw mandelbrot set.
 
-mandelbrot.typowriter.org
+http://mandelbrot.typowriter.org
 
 Features
 ---------
